@@ -1,4 +1,5 @@
 <?php
+// Marouane Saidi Rahim
 // Función que determina si un número es primo.
 function fibonacci($n) {
     $vector = [];
