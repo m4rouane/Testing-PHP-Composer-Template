@@ -1,4 +1,5 @@
 <?php
+// Marouane Saidi Rahim
 // Función que determina si un número es par.
 function esPar($numero) {
     return $numero % 2 == 0;
